@@ -1,5 +1,5 @@
 # Hi :wave: I'm Sarah
-I love solving problems and making things. I don't mind what language or framework I used to do that and I love to learn. Most of my experience is with C#, .Net, Javascript/Typescript, Vue & React. 
+I love solving problems and making things. I don't mind what language or framework I use to do that and I love to learn. Most of my experience is with C#, .Net, Javascript/Typescript, Vue & React. I love working with cloud platforms. Most of my experience is in Azure, but I've used AWS a bit here and there.
 
 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Based in Wales, UK.
 
