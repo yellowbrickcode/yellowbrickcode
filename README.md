@@ -9,6 +9,4 @@ I love solving problems and making things. I don't mind what language or framewo
 - What's a good interview process for an engineer that also yields useful information to the company doing the interview?
 
 ## 📫 If you want to talk to me...
-[@ff0brickcode on Twitter](https://twitter.com/ff0brickcode)
-
 [One of many Sarah Williams' on LinkedIn](https://www.linkedin.com/in/sarah-williams-cardiff/)
